@@ -117,7 +117,8 @@
             margin-top: 2rem;
         }
     </style>
-    <script src="https://www.paypal.com/sdk/js?client-id=AerRxiWGbDX8wOop7OLUiGLCXfjCNEgHlTgHKHx_6pfVU0fZgTEZMqLTIGm3XHoEmFEe9B-pKV4IEs3L&currency=USD"></script>
+<script src="https://www.paypal.com/sdk/js?client-id=AerRxiWGbDX8wOop7OLUiGLCXfjCNEgHlTgHKHx_6pfVU0fZgTEZMqLTIGm3XHoEmFEe9B-pKV4IEs3L&currency=USD&components=buttons&intent=authorize&debug=true"></script>
+
     <script>
         let cart = [];
 
